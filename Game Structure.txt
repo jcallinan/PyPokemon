@@ -1,0 +1,49 @@
+================== Structure ==================
+(*) Plan
+(-) Done
+
+- Title
+
+- Main menu:
+- If input = new game
+	- Player name
+	- History box
+
+	- Initial pokemon:
+		- Add pokemon to pokedex
+		- Pokedex explanation
+		- Add 20 Pokeballs on the bag
+
+	- Create an area to clear:
+		- Use a list for Separate each area pokemons
+		- Use a len as a logical test
+		- Create a function to define the medium area pokemon level 
+		- Create a function to give XP for the p1
+
+		- Improve the capture mechanic
+			- Add the wild pokemon in pokedex
+			- Create a list with all the pokemons in pokedex
+			- pokedex explaination
+			- Change the p1 when necessary
+			- use diferent pokeballs to return th chance of capture in each zone
+
+		- pokedex health check
+			- if pokedex has at least one pokemon with more than 0 hps, the game wont break
+
+		- Create a selection of 6 pokemon available for use
+			- Create a way to change move the pokemon from pokedex to selection 
+			- Create a menu between the areas to change the pokemon <<<<<<<<<<<<<<<<<<<<
+			- Force the player to change the pokemon if it's out of combat and have anothr pokemon in selection
+			
+		- Create items
+			- Create a Bag Menu
+			- Create a function to return the items effects 
+			- health potions
+
+		- Scale the code
+			- update the pokemon change to work with the selection
+			- Create a block of code for each zone
+	
+================= To Do List =================
+* update the readme
+* clear the screen
